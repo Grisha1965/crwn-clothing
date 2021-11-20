@@ -1,5 +1,6 @@
-import React from 'react'
-import HomeScreen from './screens/HomeScreen'
+import React from "react"
+import "./App.css"
+import HomeScreen from "./screens/HomeScreen"
 
 const App = () => {
   return (
